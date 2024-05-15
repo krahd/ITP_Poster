@@ -1,3 +1,3 @@
-Poster Project for ITP Camp 2014
-by Tomas Laurenzo (http://laurenzo.net)
+Poster Project for ITP Camp 2014 at NYU
+
 
